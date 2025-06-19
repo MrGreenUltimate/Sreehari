@@ -1,5 +1,4 @@
 import re
-
 def get_mood_emoji(text):
     # Dictionary mapping keywords to emojis
     mood_emojis = {
